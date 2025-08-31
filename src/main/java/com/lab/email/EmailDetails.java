@@ -1,4 +1,4 @@
-package main.email;
+package com.lab.email;
 
 public class EmailDetails {
     private String receiver;
